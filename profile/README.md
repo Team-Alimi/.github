@@ -53,6 +53,7 @@ IN:FORM은 흩어져 있는 학내 행사·동아리 정보를
 ![Python 3.11](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scrapy](https://img.shields.io/badge/scrapy-%2360A839.svg?style=for-the-badge&logo=scrapy&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 ### Infrastructure & CI/CD
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
