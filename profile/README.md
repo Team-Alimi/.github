@@ -23,7 +23,7 @@ IN:FORM은 흩어져 있는 학내 행사·동아리 정보를
 | Repository | Description |
 |----------|------------|
 | `IN-FORM_Frontend` | 프론트엔드 (React + Vite) |
-| `IN-FORM_Backend` | 백엔드 서버 |
+| `Neo_IN-FORM_Backend` | 백엔드 서버 |
 | `IN-FORM_Crawler` | 행사·동아리 정보 수집 크롤러 |
 
 
