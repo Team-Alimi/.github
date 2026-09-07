@@ -30,9 +30,9 @@ IN:FORM은 흩어져 있는 학내 행사·동아리 정보를
 ## 🧑‍💻 Team
 | Role | Members |
 |------|---------|
-| Frontend | 조유진, 이여원 |
-| Backend | 노규형, 오인겸 |
-| Design | 엄태영 |
+| Frontend | @RuntoUfrom, @wonyeoe |
+| Backend | @IM5K58, @romain1121 |
+| Design | @pacmanarm0 |
 
 
 ## 🛠 Tech Stack
