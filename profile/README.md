@@ -28,11 +28,44 @@ IN:FORM은 흩어져 있는 학내 행사·동아리 정보를
 
 
 ## 🧑‍💻 Team
-| Role | Members |
-|------|---------|
-| Frontend | @RuntoUfrom, @wonyeoe |
-| Backend | @IM5K58, @romain1121 |
-| Design | @pacmanarm0 |
+
+<table>
+  <tr>
+    <!-- Frontend -->
+    <td align="center" width="130px">
+      <a href="https://github.com/RuntoUfrom">
+        <img src="https://github.com/RuntoUfrom.png" width="80" alt="RuntoUfrom" /><br />
+        <img src="https://img.shields.io/badge/Frontend-F5BA14?style=flat&logoColor=white" alt="Frontend" />
+      </a>
+    </td>
+    <td align="center" width="130px">
+      <a href="https://github.com/wonyeoe">
+        <img src="https://github.com/wonyeoe.png" width="80" alt="wonyeoe" /><br />
+        <img src="https://img.shields.io/badge/Frontend-F5BA14?style=flat&logoColor=white" alt="Frontend" />
+      </a>
+    </td>
+    <!-- Backend -->
+    <td align="center" width="130px">
+      <a href="https://github.com/IM5K58">
+        <img src="https://github.com/IM5K58.png" width="80" alt="IM5K58" /><br />
+        <img src="https://img.shields.io/badge/Backend-8A2BE2?style=flat&logoColor=white" alt="Backend" />
+      </a>
+    </td>
+    <td align="center" width="130px">
+      <a href="https://github.com/romain1121">
+        <img src="https://github.com/romain1121.png" width="80" alt="romain1121" /><br />
+        <img src="https://img.shields.io/badge/Backend-8A2BE2?style=flat&logoColor=white" alt="Backend" />
+      </a>
+    </td>
+    <!-- Design -->
+    <td align="center" width="130px">
+      <a href="https://github.com/pacmanarm0">
+        <img src="https://github.com/pacmanarm0.png" width="80" alt="pacmanarm0" /><br />
+        <img src="https://img.shields.io/badge/Design-FF7A00?style=flat&logoColor=white" alt="Design" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠 Tech Stack
